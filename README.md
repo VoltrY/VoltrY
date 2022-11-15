@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @VoltrY
-- 👀 I’m interested in Hackathon , Java , C#
-- 🌱 I’m currently learning Unity
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+github w platform
