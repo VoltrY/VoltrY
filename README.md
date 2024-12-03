@@ -1,5 +1,5 @@
 <h2>Github w platform</h2>
-<h1 align="center">Hi 👋, I'm VoltrY</h1>
+VoltrY</h1>
 <p align="left">
 </p>
 
