@@ -49,6 +49,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/VoltrY/VoltrY/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/autkucakan/VoltrY/output/snake.svg" alt="Snake animation" />
+
 
 ###
