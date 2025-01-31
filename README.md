@@ -49,7 +49,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/autkucakan/VoltrY/output/snake.svg" alt="Snake animation" />
+![snake animation](https://github.com/<seu VoltrY>/<seu VoltrY>/blob/output/github-contribution-grid-snake2.svg)
 
 
 ###
