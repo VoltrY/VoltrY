@@ -1,53 +1,114 @@
-<h2 align="left">github is w platform</h2>
+<div align="center">
 
-###
+# Enes Demirezen
+
+### Founder · Software Engineer · Product Builder
+
+I build AI-powered products, healthcare systems and automation tools that solve real operational problems.
+
+[Website](https://enesdemirezen.com) · [LinkedIn](https://www.linkedin.com/in/enesdemirezen)
+
+</div>
+
+---
+
+## About
+
+I design and build products from the first idea to production.
+
+My work spans product strategy, backend architecture, user interfaces, AI systems, infrastructure and deployment. I care about turning complicated workflows into products that feel simple, fast and useful.
+
+```ts
+const enes = {
+  role: ["Founder", "Software Engineer", "Product Builder"],
+  focus: [
+    "Artificial Intelligence",
+    "Healthcare Technology",
+    "Computer Vision",
+    "Automation",
+    "SaaS"
+  ],
+  building: "Products people actually use",
+  principle: "Complex systems. Simple experiences."
+};
+```
+
+## Products
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Cally
+
+AI-powered voice infrastructure for businesses that need to answer, manage and automate customer calls.
+
+`Voice AI` `Telephony` `FastAPI` `React`
+
+[trycally.com](https://trycally.com)
+
+</td>
+<td width="50%" valign="top">
+
+### KOAH.TR
+
+A digital healthcare platform for patient workflows, clinical data processing, medical imaging and DICOM analysis.
+
+`Healthcare` `DICOM` `Computer Vision` `OCR`
+
+[koah.tr](https://koah.tr)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### Needle Mail
+
+An intelligent inbox layer that transforms emails and attachments into structured, actionable work.
+
+`Email AI` `Automation` `LLM` `Productivity`
+
+[app.needle.email](https://app.needle.email)
+
+</td>
+<td width="50%" valign="top">
+
+### Unicore Social
+
+A social platform connecting university communities, events and opportunities.
+
+`Flutter` `FastAPI` `PostgreSQL` `Redis`
+
+[unicore.social](https://unicore.social)
+
+</td>
+</tr>
+</table>
+
+## Stack
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VoltrY&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VoltrY&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+
+<img src="https://skillicons.dev/icons?i=python,typescript,react,nextjs,flutter,fastapi,nodejs,postgres,redis,docker,linux,git,github,cloudflare,nginx,pytorch,opencv&perline=9" />
+
 </div>
 
-###
+## Currently
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+Building production-grade systems across AI, healthcare and automation.
+
+Experimenting with computer vision, medical data pipelines, voice agents and intelligent interfaces.
+
+Trying to make every product simpler than the system behind it.
+
+---
+
+<div align="center">
+
+### Build useful things.
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=111827&label=PROFILE+VIEWS" />
+
 </div>
-
-###
-
-<div align="left">
-  <a href="https://tr.linkedin.com/in/enesdemirezen" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/VoltrY/VoltrY/output/snake.svg" alt="Snake animation" />
-
-
-###
