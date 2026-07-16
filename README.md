@@ -1,5 +1,5 @@
 <div align="center">
-//a
+
 <img
   width="100%"
   src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0D1117,45:111827,75:0891B2,100:00E7FF&text=ENES%20DEMIREZEN&fontSize=48&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Founder%20%C2%B7%20Software%20Engineer%20%C2%B7%20Product%20Builder&descAlignY=60&descSize=18"
