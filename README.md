@@ -180,7 +180,7 @@ A social platform connecting communities, events and new opportunities.
 </p>
 
 <p align="center">
-<a href="https://unicore.social">
+<a href="https://unicoresocial.com">
   <img
     src="https://img.shields.io/badge/OPEN_PROJECT-8B5CF6?style=for-the-badge&logo=rocket&logoColor=white"
     alt="Open Unicore Social"
